@@ -1,2 +1,2 @@
-# _BANKING_Transaction_
-:A program to handle banking in Java with mysql as database.
+# _Bank_Transaction_Handling
+:A program to handle transaction in bank with the help of  Java with mysql as database.
